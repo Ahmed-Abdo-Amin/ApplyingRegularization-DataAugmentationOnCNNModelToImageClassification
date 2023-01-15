@@ -1,4 +1,4 @@
-# Applying Regularization and Data Augmentation on CNN Model to image classification (Leaf counting dataset)
+# Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)
 ## Description:
 - This project used the Leaf counting dataset that contains plants with approximatelty 1,2,3,4 and 6 leafs as shown in the followed figure that cantains some samples for each class.
 
